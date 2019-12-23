@@ -1,2 +1,2 @@
 	
-	txt文件就是你的sdf文件
+	txt file means your sdf file
